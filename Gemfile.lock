@@ -1,7 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
+<<<<<<< HEAD
     coderay (1.1.2)
+=======
+    coderay (1.1.3)
+>>>>>>> 7365f9cef521a061ad2a849b97d77d24220e2495
     diff-lcs (1.3)
     method_source (1.0.0)
     pry (0.13.1)
@@ -29,4 +33,8 @@ DEPENDENCIES
   rspec
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.0.1
+>>>>>>> 7365f9cef521a061ad2a849b97d77d24220e2495
